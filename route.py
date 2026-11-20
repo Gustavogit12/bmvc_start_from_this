@@ -22,6 +22,10 @@ def helper(info= None):
 #-----------------------------------------------------------------------------
 # Suas rotas aqui:
 
+@app.route('/', method='GET')
+@app.route('/inicio', method='GET')
+def action_inicio():
+    return ctl.render('inicio')
 
 
 #-----------------------------------------------------------------------------
