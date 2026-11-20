@@ -1,4 +1,4 @@
-# ⚡ Demigod RPG: Guia das Linhagens (BMVC I)
+# Demigod RPG: Guia das Linhagens (BMVC I)
 
 Página web em **Python + Bottle**, na estrutura BMVC (Bottle Model-View-Controller), que apresenta as classes jogáveis e as criaturas do **Demigod RPG**, com um simulador de ataque em JavaScript. O projeto parte do repositório base `bmvc_start_from_this`.
 
